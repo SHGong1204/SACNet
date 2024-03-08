@@ -1,0 +1,15 @@
+Collecting mmcv-full
+  Using cached mmcv-full-1.6.1.tar.gz (563 kB)
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Requirement already satisfied: addict in f:\anaconda\envs\ssp\lib\site-packages (from mmcv-full) (2.4.0)
+Requirement already satisfied: numpy in f:\anaconda\envs\ssp\lib\site-packages (from mmcv-full) (1.21.6)
+Requirement already satisfied: packaging in f:\anaconda\envs\ssp\lib\site-packages (from mmcv-full) (21.3)
+Requirement already satisfied: Pillow in f:\anaconda\envs\ssp\lib\site-packages (from mmcv-full) (9.2.0)
+Requirement already satisfied: pyyaml in f:\anaconda\envs\ssp\lib\site-packages (from mmcv-full) (6.0)
+Requirement already satisfied: yapf in f:\anaconda\envs\ssp\lib\site-packages (from mmcv-full) (0.32.0)
+Requirement already satisfied: regex in f:\anaconda\envs\ssp\lib\site-packages (from mmcv-full) (2022.9.13)
+Requirement already satisfied: pyparsing!=3.0.5,>=2.0.2 in f:\anaconda\envs\ssp\lib\site-packages (from packaging->mmcv-full) (3.0.9)
+Building wheels for collected packages: mmcv-full
+  Building wheel for mmcv-full (setup.py): started
+  Building wheel for mmcv-full (setup.py): finished with status 'canceled'
